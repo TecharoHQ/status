@@ -1,0 +1,13 @@
+{
+  "name": "status",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "issue-status dev",
+    "build": "issue-status build",
+    "preview": "issue-status preview"
+  },
+  "dependencies": {
+    "issue-status": "^0.1.2"
+  }
+}
